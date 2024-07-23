@@ -10,3 +10,5 @@ async function main(){
 }
 main()
 ```
+# gif from the site 
+![loading](https://github.com/user-attachments/assets/21aebbcf-0cd3-4183-9d23-80c9eaf19bf5)
